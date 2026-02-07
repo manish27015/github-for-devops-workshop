@@ -1,0 +1,18 @@
+git status
+clear
+ls
+git add testing.py
+git rm --cached testing.py
+git add .
+git commit -m "added testing files"
+git init
+git commit
+git restore
+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
+git commit -m "added git_command files"
+git status
+git remote add origin https://github.com/manish27015/github-for-dev...
+git remote -v
+git remote set-url origin https://ghp_VUKsGG91SnQe32dNt9XSqrJ6ZpP6Z... 
+git remote -v
+git push origin master
