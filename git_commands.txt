@@ -3,8 +3,7 @@ clear
 ls
 git add testing.py
 git rm --cached testing.py
-git add .
-git commit -m "added testing files"
-git init
-git commit
-git restore
+git add . 
+git remote -v
+get remote set-url origin url
+git push origin master
